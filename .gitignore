@@ -1,0 +1,30 @@
+# Archivos generados por TypeScript
+*.js
+*.js.map
+
+# Carpeta de salida de TypeScript (por defecto: "dist")
+dist/
+
+# Carpeta de salida de TypeScript (por defecto: "out")
+out/
+
+# Archivos de definición TypeScript
+*.d.ts
+
+# Carpeta "node_modules" (dependencias de Node.js)
+node_modules/
+
+# Carpeta de cobertura (usada por herramientas de prueba de código)
+coverage/
+
+# Archivo de configuración de TypeScript (tsconfig.json)
+tsconfig.json
+
+# Archivos de configuración de TypeScript (tsconfig.*.json)
+tsconfig.*.json
+
+# Carpeta de dependencias de Yarn (si estás utilizando Yarn como gestor de paquetes)
+.yarn/
+
+# Carpeta de dependencias de npm (si estás utilizando npm como gestor de paquetes)
+npm-debug.log
