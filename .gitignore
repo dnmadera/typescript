@@ -28,3 +28,6 @@ tsconfig.*.json
 
 # Carpeta de dependencias de npm (si estás utilizando npm como gestor de paquetes)
 npm-debug.log
+
+
+.vscode/
